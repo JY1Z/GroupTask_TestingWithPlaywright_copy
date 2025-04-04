@@ -5,7 +5,7 @@
 - Jiayue Zheng  
   
 ## How to Use This Project
-This Playwright testing project contains four automated test cases for the website: [https://www.ilry.fi/en/](https://www.ilry.fi/en/)
+This Playwright testing project contains four automated test cases for the website: [https://www.ilry.fi/en/](https://www.ilry.fi/en/)   
 The tests cover:
 - Reduced motion settings support
 - Visual regression of the main menu
