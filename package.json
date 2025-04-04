@@ -1,0 +1,16 @@
+{
+  "name": "grouptask_testingwithplaywright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --project=firefox"
+  },
+  "keywords": [],
+  "author": "Jiayue Zheng, Santtu Saaranen, Armas Nevolainen",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0"
+  }
+}
